@@ -1,6 +1,6 @@
 # Data-Analytics-using-AIRBNB
 
-ABSTRACT: Our project is about performing data analytics using the Airbnb dataset. The purpose of this project is to:
+ABSTRACT: The project is about performing data analytics using the Airbnb dataset. The purpose of this project is to:
 
 -> Compare prices based on regions
 -> Analyze the price difference by room types.
